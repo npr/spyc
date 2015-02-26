@@ -1,5 +1,5 @@
 {
-    "name": "nprdm/spyc",
+    "name": "npr/spyc",
     "description": "A simple YAML loader/dumper class for PHP",
     "type": "library",
     "keywords": [
